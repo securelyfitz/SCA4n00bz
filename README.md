@@ -24,4 +24,4 @@ First get the open source firmware: http://sigrok.org/wiki/Fx2lafw
 Then, navigate to http://sigrok.org/wiki/Main_Page and choose your OS under 'Documentation' You need to build libsigrok and then pulseview
 
 Workshop Files:
-Uzip libraries.zip into your ~/sketchbook/, ~/arduino/ ~/Documents/sketchbook, or ~/Documents/arduino, whichever your install happens to use.
+Uzip libraries.zip into your ~/sketchbook/, ~/arduino/ ~/Documents/sketchbook, or ~/Documents/arduino, whichever your install happens to use. This includes the LED driving (Neopixel), 'Keypad', and 'Password' libraries, plus the sample code used in the activities.
